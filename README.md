@@ -21,9 +21,7 @@
 
 ## Authors
 - [Mr. Vishal D. Chavare](https://www.linkedin.com/in/vishal-chavare/)  
-- Mr. Shivam S. Pawar  
-- Mr. Swapnil S. Ghodake  
-- Mr. Onkar N. Kadam  
+ 
 
 ---
 
